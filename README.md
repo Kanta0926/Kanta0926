@@ -1,16 +1,15 @@
-## Hi there 👋
+<p><b>- My Favorite</b></p>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,selenium,jenkins&theme=light)](https://skillicons.dev)
 
-<!--
-**Kanta0926/Kanta0926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My Skills](https://skillicons.dev/icons?i=flutter,html,js,ts,nodejs,react,css,sass&theme=light)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,firebase,eclipse,vim,md,bash,powershell,docker&theme=light)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=object1985&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=object1985" />
+</a>
