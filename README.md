@@ -26,8 +26,8 @@
 </a>
 
 ## 💡Portfolio
-詳細はリポジトリのRead meにあります。<br/>
-
+作成した意図などは、各種リポジトリのRead meにあります。<br/>
+見ていただけると嬉しいです。<br/>
 <a href="https://github.com/Kanta0926/komugi-site.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kanta0926&repo=komugi-site&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
