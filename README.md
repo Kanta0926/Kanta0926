@@ -31,7 +31,6 @@
 <a href="https://github.com/Kanta0926/komugi-site.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kanta0926&repo=komugi-site&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
 <a href="https://github.com/Kanta0926/sabaki-project.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kanta0926&repo=sabaki-project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -40,7 +39,6 @@
 <a href="https://github.com/Kanta0926/my-blog.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kanta0926&repo=my-blog&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
 <a href="https://github.com/Kanta0926/sun-vell.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kanta0926&repo=my-blog&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
