@@ -46,8 +46,8 @@
 </a>
 
 
- - [小麦好日へのリンク(HP)](https://kancha.org/komugi-site/)
- - [SABAKIへのリンク(HP)](https://kancha.org/sabaki-project)
- - [カロリーチェッカー(WEBアプリ)](https://cal-cheacker.vercel.app/)
- - [Blogへのリンク（作成中）](https://kancha.org/blog)
- - [sunvellへのリンク](https://kancha.org/sunvell-project/)
+ - [小麦好日へのリンク(HP)](https://kancha.org/komugi-site/)-Bagle屋さんモチーフのHP。-Nuxt,Gsap,WordPress使用
+ - [SABAKIへのリンク(HP)](https://kancha.org/sabaki-project)-料理サービスモチーフのHP。-Vue,Three.js,Gsap使用
+ - [カロリーチェッカー(WEBアプリ)](https://cal-cheacker.vercel.app/)-カロリー計算サイト。-Next,TailWind使用
+ - [Blogへのリンク（作成中）](https://kancha.org/blog)-ブログ-Nuxt,vuetify使用
+ - [sunvellへのリンク](https://kancha.org/sunvell-project/)-日焼け止めLP-Vue,Photoshop,Blender使用
