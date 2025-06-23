@@ -4,7 +4,6 @@
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/UI-Figma-informational?style=flat&logo=figma&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/UI-adobeXD-informational?style=flat&logo=heroui&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=intellijidea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vuedotjs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Vuetify-informational?style=flat&logo=vuetify&logoColor=white&color=2bbc8a)
@@ -18,7 +17,6 @@
 ![](https://img.shields.io/badge/CSS-TailWind-informational?logo=tailwindcss&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Photoshop-informational?style=flat&logo=affinityphoto&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-PremirePro-informational?style=flat&logo=affinityphoto&logoColor=white&color=2bbc8a)
 
 ## 📈 GitHub Stats
 <a href="https://github.com/MartinHeinz/MartinHeinz">
