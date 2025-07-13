@@ -43,9 +43,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kanta0926&repo=my-blog&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<a href="https://github.com/Kanta0926/Get-Comment-Youtube.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kanta0926&repo=Get-Comment-Youtube&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
  - [小麦好日へのリンク(HP)](https://kancha.org/komugi-site/)-Bagle屋さんモチーフのHP。-Nuxt, Gsap, WordPress使用
  - [SABAKIへのリンク(HP)](https://kancha.org/sabaki-project)-料理サービスモチーフのHP。-Vue, Three.js, Gsap使用
  - [カロリーチェッカー(WEBアプリ)](https://cal-cheacker.vercel.app/)-カロリー計算サイト。-Next, OpenAi API, TailWind使用
+ - [Chromeのプラグイン(WEBアプリ)](https://github.com/Kanta0926/Get-Comment-Youtube)-YouTubeコメントを簡易的にコピーするプラグイン。現在ストア申請中。
  - [技術Blogへのリンク](https://kancha.org/blog)-ブログ-Nuxt, vuetify使用
  - [sunvellへのリンク](https://kancha.org/sunvell-project/)-日焼け止めLP-Vue, Photoshop, Blender使用
